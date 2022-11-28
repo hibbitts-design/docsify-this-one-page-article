@@ -22,7 +22,7 @@ How to Use
 
 4. Go to https://docsify-this.net and paste the copied URL into the **Markdown File URL** field
 
-5. Tap the **View as Standalone Page** button to view your Markdown file as a web page for sharing or embedding
+5. Choose the page options you want (i.e. Table of Contents) and tap the **View as Standalone Page** button to view your Markdown file as a web page for sharing or embedding
 
 You can further customize the appearance of your web page by tapping on the **Show More Page Options »** link in the Docsfy-This Web Page Builder.
 
