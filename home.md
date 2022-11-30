@@ -8,7 +8,7 @@
 
 ## Introduction
 
-**Markdown** is a system-independent markup language that adds elements such as headings, bulleted lists, and images to plain text. It’s simple to understand, human-readable, and available in more and more applications every day.
+**Markdown** is a system-independent markup language that is easier to learn and use than **HTML**.
 
 ![The Markdown Mark](images/markdown-red.png)  
 _Figure 1: The Markdown Mark_
