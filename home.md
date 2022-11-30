@@ -592,8 +592,6 @@ and using a local image (which also displays in GitHub):
 ```
 ![Image of Octocat](images/octocat.jpg)
 
-> Note: Example page content from [GetGrav.org](https://learn.getgrav.org/17/content/markdown), included to demonstrate the portability of Markdown-based content
-
 ## Topic One  
 
 Lorem markdownum in maior in corpore ingeniis: causa clivo est. Rogata Veneri terrebant habentem et oculos fornace primusque et pomaria et videri putri, levibus. Sati est novi tenens aut nitidum pars, spectabere favistis prima et capillis in candida spicis; sub tempora, aliquo.
@@ -707,3 +705,5 @@ Themis susurro tura collo: cunas setius *norat*, Calydon. Hyaenam terret credens
 habenas communia causas vocat fugamque roganti Eleis illa ipsa id est madentis
 loca: Ampyx si quis. Videri grates trifida letum talia pectus sequeretur erat
 ignescere eburno e decolor terga.
+
+> Note: Example page content from [GetGrav.org](https://learn.getgrav.org/17/content/markdown), included to demonstrate the portability of Markdown-based content
