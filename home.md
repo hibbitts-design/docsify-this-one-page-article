@@ -8,7 +8,7 @@
 
 ## Introduction
 
-**Markdown** is a better way to write **HTML**, without all the complexities and ugliness that usually accompanies it.
+**Markdown** is a system-independent markup language that adds formatting elements (headings, bulleted lists, images, etc.) to plain text. It’s simple to understand, human-readable, and available in more and more applications every day.
 
 ![The Markdown Mark](images/markdown-red.png)  
 _Figure 1: The Markdown Mark_
