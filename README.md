@@ -16,7 +16,7 @@ How to Use
 
 1. Tap **Use this template** in this repository (upper-right green button) and then choose **Create a new repository**
 
-2. Choose the name for your new repository to contain the files and then tap **Create repository from template**
+2. Choose the name for your new repository to contain the files and then tap **Create repository**
 
 3. View the **home.md** Markdown file in your newly created repository and copy it's URL
 
