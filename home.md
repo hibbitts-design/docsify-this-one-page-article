@@ -10,8 +10,7 @@
 
 **Markdown** is a system-independent markup language that is easier to learn and use than **HTML**.
 
-![The Markdown Mark](images/markdown-red.png)  
-_Figure 1: The Markdown Mark_
+![Figure 1: The Markdown Mark](images/markdown-red.png)
 
 Some of the key benefits are:
 
